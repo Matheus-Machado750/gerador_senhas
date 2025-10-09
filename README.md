@@ -74,7 +74,8 @@ Não é necessário instalar nada, apenas ter acesso à internet.
 
 ## 👨‍💻 Autor
 
-**Matheus Machado**  
+**Matheus Machado dos Santos** 
+
 Desenvolvido como um projeto independente, com foco em **Python**, **Streamlit** e boas práticas de programação.
 
 ---
