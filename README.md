@@ -65,8 +65,7 @@ Toda a interação ocorre em tempo real, com atualizações automáticas à medi
 
 ## 🚀 Como Utilizar
 
-1. Acesse o link do projeto:  
-   👉 [https://matheus-machado-gerador-senhas.streamlit.app/](https://matheus-machado-gerador-senhas.streamlit.app/)
+1. Acesse o link do projeto: [https://matheus-machado-gerador-senhas.streamlit.app/](https://matheus-machado-gerador-senhas.streamlit.app/)
 2. Escolha o tamanho desejado para a senha.  
 3. Clique para gerar e veja o resultado instantaneamente.  
 4. Copie sua senha e utilize onde desejar!
