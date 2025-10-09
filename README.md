@@ -1,8 +1,6 @@
 # 🔐 Gerador de Senhas Aleatórias
 
-Aplicação desenvolvida em **Python** com **Streamlit**, que gera senhas aleatórias e personalizáveis de forma simples, rápida e totalmente online.
-
-O objetivo do projeto é oferecer uma ferramenta prática para criação de senhas fortes, combinando **segurança**, **usabilidade** e **design moderno**.
+Aplicação desenvolvida em **Python** com **Streamlit**, que gera senhas aleatórias e com tamanho personalizável de forma simples, rápida e totalmente online. O objetivo do projeto é oferecer uma ferramenta prática para criação de senhas fortes, combinando **segurança**, **usabilidade** e **design moderno**.
 
 ---
 
