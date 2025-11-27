@@ -4,6 +4,8 @@ Aplicação desenvolvida em **Python** com **Streamlit**, que gera senhas aleat�
 
 ---
 
+![Interface do sistema](print_gerador_senhas.png)
+
 ## 🌐 Acesse o Projeto Online
 
 [Clique aqui para usar o Gerador de Senhas](https://matheus-machado-gerador-senhas.streamlit.app/)
