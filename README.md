@@ -8,9 +8,9 @@ Aplicação desenvolvida em **Python** com **Streamlit**, que gera senhas aleat�
 
 ## 🌐 Acesse o Projeto Online
 
-[Clique aqui para usar o Gerador de Senhas](https://matheus-machado-gerador-senhas.streamlit.app/)
+[Clique aqui para usar o Gerador. (Ctrl + clique para abrir em uma nova aba)](https://matheus-machado-gerador-senhas.streamlit.app/)
 
-Nenhuma instalação ou download é necessário — o projeto é executado diretamente no navegador por meio do **Streamlit Cloud**, garantindo fácil acesso e total compatibilidade com qualquer dispositivo.
+Nenhuma instalação ou download é necessário, o projeto é executado diretamente no navegador por meio do **Streamlit Cloud**, garantindo fácil acesso e total compatibilidade com qualquer dispositivo.
 
 ---
 
