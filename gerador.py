@@ -5,7 +5,7 @@ def gerador_senhas(tamanho_senha):
 
     letras = string.ascii_letters  #Todas as letras minúsculas e maiúsculas
     numeros = string.digits  #Números de 0 a 9
-    pontuacoes = string.punctuation  #Simbolos especiais
+    pontuacoes = string.punctuation  #Simbolos especiais        sim sim, concordo, muito interessante
 
     caracteres_possiveis = letras + numeros + pontuacoes
 
