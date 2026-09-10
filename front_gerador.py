@@ -105,7 +105,7 @@ if st.button("Gerar senha"):
             <rect x='3' y='3' width='13' height='13' rx='2'/>
         </svg>
         """
-
+#comentario perdido da Marina
         senha_html = f"""
         <div class="senha-box espacamento">
             <span class="senha-texto">{senha_segura}</span>
